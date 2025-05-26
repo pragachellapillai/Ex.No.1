@@ -113,4 +113,4 @@ cases might lead to invention of smaller models of the type Llama 8B and
 Mistral 8B which may just serve as reasoning engines. Models that seem to lead 
 to autonomous agents might have a size in-between these spectrum.
 
-# Result
+
